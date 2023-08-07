@@ -1,0 +1,2670 @@
+fileFormatVersion: 2
+guid: 61cca0dbc66a5ea4ca1578feba40eadf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bloque metal_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1906
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbf61fec3203074690bd0fee2633b32
+      internalID: 134087182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1906
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce9020991730cc45afb3e18f5a10864
+      internalID: -1802475777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_2
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1906
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3e87a8adf1d324e8fc37f7eeed6363
+      internalID: -333069500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1906
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64aa0da5c1390834f81ec86959925448
+      internalID: -1492845388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_4
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1906
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071ca0564c5fdc14f915503554669e20
+      internalID: -1583030278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_5
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1799
+        width: 44
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971647796d230ae49bb62ae75069a245
+      internalID: -819658221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1799
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a302a1a043040a14d8ecf019844252f4
+      internalID: -1565422225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1799
+        width: 124
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598f6ff64810e46418d31384e1d4f6d6
+      internalID: -1859009970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_8
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1799
+        width: 163
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1eb9c1817e00b4b92a3c664f7672a3
+      internalID: -934052906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_9
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1799
+        width: 244
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf0d72b4cd5f634f9d1cbcd184c251e
+      internalID: -1847435888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_10
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1800
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db985cbabecc03743b3a41449737fca9
+      internalID: -1172835492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_11
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1800
+        width: 163
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0a8c6acf5f4224dbc6b49ef0681cf2
+      internalID: 859817130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1776
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b51a7b75c9d454e906b817841c8e66
+      internalID: 1373610149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_13
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1776
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097341e717964bd45817c13376ebc371
+      internalID: 765218287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_14
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1776
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223b0a347f0d6e54b83a5dc982db33a6
+      internalID: 1452470866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_15
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1776
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e265aede658ff5429b4cf534551b9c6
+      internalID: -1040230272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_16
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1776
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0aec944ff59b98498fd13804b2f9b28
+      internalID: 796462244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_17
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1605
+        width: 45
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21ac14592b4e5e4c97725b6474353a4
+      internalID: -745801890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1605
+        width: 84
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5011de31656214c910aa2047131575
+      internalID: -1900848496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_19
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1605
+        width: 125
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a170a1eb3ed554b8712e733a127bf8
+      internalID: 1912238297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_20
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1605
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2af22e116130274090ff8fd85472b5d
+      internalID: -116251686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_21
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1605
+        width: 244
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f02bc5fda79c5548b8cc937a34ea55e
+      internalID: -328860354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_22
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1605
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37a16bc2af46f5478980a6beca61ac7
+      internalID: -346931495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_23
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1605
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f83ec90a0cd9ab4e9687e3efbdf6dd2
+      internalID: 1146056333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1586
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc9bcfa143f09d439220c793fd75d64
+      internalID: 1745617988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_25
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1586
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523bf8a322ab5654ea4ec9d0f15b4d49
+      internalID: 648515370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_26
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1586
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c115169d4af219e41a476d80ae4d7adf
+      internalID: 1151287711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_27
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1586
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8717df5814a41d49912c9865b84c353
+      internalID: 1391292863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_28
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1586
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb7dc92cb7e4364a8175894983c777f
+      internalID: 160200251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1338
+        width: 44
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbd1ddfaed341d499d304b513748741
+      internalID: 98101525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_30
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1338
+        width: 84
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32670490fa5e7b4448c2a7f8d00eec4b
+      internalID: 1807293905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1338
+        width: 125
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a58a6366b162c4287e33951a7d781f
+      internalID: 620712109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_32
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1338
+        width: 163
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338542b9fd716e04982a4f182ff10728
+      internalID: 202969695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_33
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1338
+        width: 244
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37227d2822ded24cb52ce8265426515
+      internalID: -152863973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_34
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1308
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8511fd9ead3f846b7ae60665996af8
+      internalID: 358025982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_35
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1308
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa76245fe6ed37d4e9d6c77136b351ea
+      internalID: -83978567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_36
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1308
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10769d219008e334c981a31659bc02ac
+      internalID: -551930467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_37
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1308
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8209b4e5e5c914d9d88e90f2236aec
+      internalID: 1497448398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_38
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1308
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfba5999476cb14d8e06b96b928cff5
+      internalID: 722508335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_39
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 970
+        width: 44
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440ef0170fb4a0243ac271bf148cad38
+      internalID: 1873620458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_40
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 970
+        width: 84
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ada462cb6b20b94485d4f5815253ba5
+      internalID: 1791408246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_41
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 970
+        width: 124
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5e92bbf02736343a4e5f4bc9fc1dfc
+      internalID: -788602970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_42
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 970
+        width: 163
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ae71b2e0df8fa42aace35568ed47e8
+      internalID: 37211517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_43
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 970
+        width: 243
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c880e81c32e9f914d927e785c30687cd
+      internalID: 1400681834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_44
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 970
+        width: 164
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49ecef09e78c4e44a01c546b890f9ae
+      internalID: 797253530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_45
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 970
+        width: 164
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524d96d0fc396d64eb73495f7b7c857a
+      internalID: -2086345985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_46
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 970
+        width: 163
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5d23a4708cc834982a3bea61f76d1d
+      internalID: 2049845196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_47
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 970
+        width: 164
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680af3e11fbe45449acb721dcc5f356c
+      internalID: -162117474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_48
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 970
+        width: 163
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98390c811cfa08341b24e34572533480
+      internalID: 2128251190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_49
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 713
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75383795d4320064e9652e9e9b079406
+      internalID: 1614909833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_50
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 713
+        width: 124
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847496bc2c561014297464c2c3051c05
+      internalID: 1364272140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_51
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 713
+        width: 85
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28027ebcbb972634fb972f88303481bc
+      internalID: 1284265833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_52
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 713
+        width: 85
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a15c4ce2d4ac041b7088183132665f
+      internalID: 1419093360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_53
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 713
+        width: 124
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b33b5f913e69464ebf3e879773f1b1a
+      internalID: -67563029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_54
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 713
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6653a5e959c1b04b8899130b84b4103
+      internalID: 1662731363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_55
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 871
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e9bb6d5c6183945b5f7615d78acc39
+      internalID: -331065511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_56
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 871
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f212f4fbd11043c4c889e2a03ced91e5
+      internalID: -286241887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_57
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 871
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f1119f96808cc498516ec9568eeb3c
+      internalID: 1079089186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_58
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 871
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34885c259de5be34e92a5ce932a9a4da
+      internalID: 424913531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_59
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 859
+        width: 322
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655bd0de35243f74dab1c037208ef4dc
+      internalID: 2309046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_60
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 788
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4758f3421281ed14d8020b4f44016fb3
+      internalID: 606612440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_61
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 788
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73c4782aca315a4580889533d993d5e
+      internalID: 86602678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_62
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 788
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720cd03c2985ea740953dcef3b26fb53
+      internalID: -1751286990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_63
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 788
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d4ecc47ec43f84ea03d841ae91952f
+      internalID: 1195221215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_64
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 777
+        width: 243
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc5c62c9f224b04aa38e23b58bf4d2b
+      internalID: -999435351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_65
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 718
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95243751a2aff34d88e33930ba87cdd
+      internalID: -2127100991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_66
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 718
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f011bd88cbae646b95aea8364459b5
+      internalID: 146329056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_67
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 718
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b269a6d15a5a7d74b83eba07dbb4ec29
+      internalID: 1899343688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_68
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 718
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d29b852a678744c90f2a070d8762c9
+      internalID: -209099897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_69
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 706
+        width: 163
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e0de5b9ced7844a9e63b4b194cd47c
+      internalID: 1916523407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_70
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 560
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c036494a1354f42428f8169fc6e4931f
+      internalID: 976440227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_71
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 560
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8570df7aefa959642ab6644720811c24
+      internalID: -1705172354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_72
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 521
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af5a2a2487c1a54290f1807a1818fd0
+      internalID: 548896921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_73
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 521
+        width: 124
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72dd196ca1bafe4bb60ff698d477221
+      internalID: 1971617277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_74
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 522
+        width: 85
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951a0e9cbc2c078458e6f69f1804e24c
+      internalID: -554860970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_75
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 522
+        width: 85
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619e7f323863f5147ac48f4a3818fcf4
+      internalID: 1343878597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_76
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 521
+        width: 124
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e978b53eb84244085ad2468ab92c1d
+      internalID: 2071730320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_77
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 521
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac698c30cc532e4aa4d24d74c7e4a04
+      internalID: 2105237982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_78
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 643
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a446898a77d092438ee5ea3f6ed29c8
+      internalID: 26013746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_79
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 643
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200f92dd6eb4f7944a3f4a169a1a1ed2
+      internalID: 1027804129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_80
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 643
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f8b14f9e3cf954c93d04b46a4c3e93
+      internalID: -1627065992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_81
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 643
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cd5da771ada804d8d871bbc66188e0
+      internalID: -1454888198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_82
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 632
+        width: 123
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e467ce7c6e1d1f9469e6c798d3b28f57
+      internalID: -65573197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_83
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 579
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d69a69ae0828684ea0e5badcad8bed4
+      internalID: 1068568105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_84
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 579
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34175cf3077957f4abf10313dc74bc9e
+      internalID: 1264001296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_85
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 579
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486017d78fdc559448694b742402b512
+      internalID: -1249532358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_86
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 579
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2f97a55d8677b44baf0145e79abb76
+      internalID: 1264060464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_87
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 568
+        width: 84
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3747279fa0373e64fbda4907ff59905a
+      internalID: -1226985935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_88
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 449
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0229cc79758ef044ba9d9f2fc536dad
+      internalID: -1443953395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_89
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 449
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3e748cfec0fb4499ecdac413d61828
+      internalID: -1483630917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_90
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 504
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2be4a800a0ec34c996be2556ba3d1a
+      internalID: -1765554607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_91
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 504
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1ab62fc436db5429cb9dda397784b4
+      internalID: 622775168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_92
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 504
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef6dccc4ebfe9d49911e97d0f4db3d1
+      internalID: 552701546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_93
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 503
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f5610f3b94f144db2f2d011d83b61a
+      internalID: 413720888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_94
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 493
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4e07257556537419c127c9d42aa9a4
+      internalID: 386613788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_95
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 348
+        width: 124
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2ae57b46d043747b96c466f15a9273
+      internalID: 896272930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_96
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 348
+        width: 124
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29780e128ac093a44a6a71e5572a823c
+      internalID: -1610275821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_97
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 251
+        width: 163
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8240ae297f503334e87de064ea5e1517
+      internalID: -1673121545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_98
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 251
+        width: 125
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f313ae23e005d4419fc40f2bcc6f55c
+      internalID: 1059584413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_99
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 251
+        width: 84
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2f6aec28e21144ba2921ac8bfd6c70
+      internalID: 1365936523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_100
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 251
+        width: 85
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28e5b5ca4e81164586ed72b2345d5b3
+      internalID: 1716038408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_101
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 251
+        width: 124
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d582fca8549eb9747829e613a43d5963
+      internalID: -310014331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_102
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 251
+        width: 164
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b07c33c153c57f49bb82ed9ea7669f2
+      internalID: -846235780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_103
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 242
+        width: 124
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e594aea77e04e1e42a5555109725aff6
+      internalID: 302347194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_104
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 242
+        width: 124
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6507eaeda2e32ef4da898d13e776036a
+      internalID: -453548981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 163
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb48ddab97bc3f4fb06c93b5dcc9291
+      internalID: -2066591362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_106
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 126
+        width: 164
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3e77ae1647fd2449f509c8ab65b4bb
+      internalID: -390610998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_107
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 163
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7ff26ae26a72c4ab5927cb1e3361dc
+      internalID: 972247554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_108
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 0
+        width: 125
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0084bd6c7078f6147843565712e57100
+      internalID: -873050739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_109
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 84
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e551ad6cf4418418e2dea15876db08
+      internalID: 690389384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_110
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 0
+        width: 85
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1e524b8e2bef9468269dfedb2eb620
+      internalID: -1079118694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_111
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 0
+        width: 124
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bfa24638fb6b340811fb6f42cacb5f
+      internalID: -1624062804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_112
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 0
+        width: 164
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c8b04c0c382be4e9ab5a3234003b8a
+      internalID: 1854283195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 163
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f619ca468c3b73488ede86c4c30c8ba
+      internalID: -1055704249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque metal_114
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 10
+        width: 164
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3a3a97b2767074daa1f7763f7417cd
+      internalID: 2070186616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bloque metal_0: 134087182
+      Bloque metal_1: -1802475777
+      Bloque metal_10: -1172835492
+      Bloque metal_100: 1716038408
+      Bloque metal_101: -310014331
+      Bloque metal_102: -846235780
+      Bloque metal_103: 302347194
+      Bloque metal_104: -453548981
+      Bloque metal_105: -2066591362
+      Bloque metal_106: -390610998
+      Bloque metal_107: 972247554
+      Bloque metal_108: -873050739
+      Bloque metal_109: 690389384
+      Bloque metal_11: 859817130
+      Bloque metal_110: -1079118694
+      Bloque metal_111: -1624062804
+      Bloque metal_112: 1854283195
+      Bloque metal_113: -1055704249
+      Bloque metal_114: 2070186616
+      Bloque metal_12: 1373610149
+      Bloque metal_13: 765218287
+      Bloque metal_14: 1452470866
+      Bloque metal_15: -1040230272
+      Bloque metal_16: 796462244
+      Bloque metal_17: -745801890
+      Bloque metal_18: -1900848496
+      Bloque metal_19: 1912238297
+      Bloque metal_2: -333069500
+      Bloque metal_20: -116251686
+      Bloque metal_21: -328860354
+      Bloque metal_22: -346931495
+      Bloque metal_23: 1146056333
+      Bloque metal_24: 1745617988
+      Bloque metal_25: 648515370
+      Bloque metal_26: 1151287711
+      Bloque metal_27: 1391292863
+      Bloque metal_28: 160200251
+      Bloque metal_29: 98101525
+      Bloque metal_3: -1492845388
+      Bloque metal_30: 1807293905
+      Bloque metal_31: 620712109
+      Bloque metal_32: 202969695
+      Bloque metal_33: -152863973
+      Bloque metal_34: 358025982
+      Bloque metal_35: -83978567
+      Bloque metal_36: -551930467
+      Bloque metal_37: 1497448398
+      Bloque metal_38: 722508335
+      Bloque metal_39: 1873620458
+      Bloque metal_4: -1583030278
+      Bloque metal_40: 1791408246
+      Bloque metal_41: -788602970
+      Bloque metal_42: 37211517
+      Bloque metal_43: 1400681834
+      Bloque metal_44: 797253530
+      Bloque metal_45: -2086345985
+      Bloque metal_46: 2049845196
+      Bloque metal_47: -162117474
+      Bloque metal_48: 2128251190
+      Bloque metal_49: 1614909833
+      Bloque metal_5: -819658221
+      Bloque metal_50: 1364272140
+      Bloque metal_51: 1284265833
+      Bloque metal_52: 1419093360
+      Bloque metal_53: -67563029
+      Bloque metal_54: 1662731363
+      Bloque metal_55: -331065511
+      Bloque metal_56: -286241887
+      Bloque metal_57: 1079089186
+      Bloque metal_58: 424913531
+      Bloque metal_59: 2309046
+      Bloque metal_6: -1565422225
+      Bloque metal_60: 606612440
+      Bloque metal_61: 86602678
+      Bloque metal_62: -1751286990
+      Bloque metal_63: 1195221215
+      Bloque metal_64: -999435351
+      Bloque metal_65: -2127100991
+      Bloque metal_66: 146329056
+      Bloque metal_67: 1899343688
+      Bloque metal_68: -209099897
+      Bloque metal_69: 1916523407
+      Bloque metal_7: -1859009970
+      Bloque metal_70: 976440227
+      Bloque metal_71: -1705172354
+      Bloque metal_72: 548896921
+      Bloque metal_73: 1971617277
+      Bloque metal_74: -554860970
+      Bloque metal_75: 1343878597
+      Bloque metal_76: 2071730320
+      Bloque metal_77: 2105237982
+      Bloque metal_78: 26013746
+      Bloque metal_79: 1027804129
+      Bloque metal_8: -934052906
+      Bloque metal_80: -1627065992
+      Bloque metal_81: -1454888198
+      Bloque metal_82: -65573197
+      Bloque metal_83: 1068568105
+      Bloque metal_84: 1264001296
+      Bloque metal_85: -1249532358
+      Bloque metal_86: 1264060464
+      Bloque metal_87: -1226985935
+      Bloque metal_88: -1443953395
+      Bloque metal_89: -1483630917
+      Bloque metal_9: -1847435888
+      Bloque metal_90: -1765554607
+      Bloque metal_91: 622775168
+      Bloque metal_92: 552701546
+      Bloque metal_93: 413720888
+      Bloque metal_94: 386613788
+      Bloque metal_95: 896272930
+      Bloque metal_96: -1610275821
+      Bloque metal_97: -1673121545
+      Bloque metal_98: 1059584413
+      Bloque metal_99: 1365936523
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

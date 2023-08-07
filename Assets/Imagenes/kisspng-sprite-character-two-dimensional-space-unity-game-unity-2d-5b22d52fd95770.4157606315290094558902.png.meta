@@ -1,0 +1,448 @@
+fileFormatVersion: 2
+guid: adcd7e9c23b4bee43a2c2eb394a310cd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-sprite-character-two-dimensional-space-unity-game-unity-2d-5b22d52fd95770.4157606315290094558902_0
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 426
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e908d349dd7a3184a8ff97128a35d46d
+      internalID: 517630265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-character-two-dimensional-space-unity-game-unity-2d-5b22d52fd95770.4157606315290094558902_1
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 407
+        width: 88
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9759b48c5cf02e4a80ddb012810ddba
+      internalID: -668096181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-character-two-dimensional-space-unity-game-unity-2d-5b22d52fd95770.4157606315290094558902_2
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 408
+        width: 82
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78a6e3ab287183408b8859ab22aae7e
+      internalID: 2092377119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-character-two-dimensional-space-unity-game-unity-2d-5b22d52fd95770.4157606315290094558902_3
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 406
+        width: 94
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c089feb74413e4e91a3aa4befeac80
+      internalID: -520260698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-character-two-dimensional-space-unity-game-unity-2d-5b22d52fd95770.4157606315290094558902_4
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 426
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd32da478ca42c14e9285469965eb65d
+      internalID: -860496872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-character-two-dimensional-space-unity-game-unity-2d-5b22d52fd95770.4157606315290094558902_5
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 407
+        width: 87
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f41c9ed50845224e867a5494c72e1d0
+      internalID: 1218243856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-character-two-dimensional-space-unity-game-unity-2d-5b22d52fd95770.4157606315290094558902_6
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 408
+        width: 85
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87c0e2fd5781314a99d94aa7be4cbbe
+      internalID: -1131143077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-character-two-dimensional-space-unity-game-unity-2d-5b22d52fd95770.4157606315290094558902_7
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 406
+        width: 89
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8c572bb8e940c4c94bb28dc9e3e23a
+      internalID: -194420148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-character-two-dimensional-space-unity-game-unity-2d-5b22d52fd95770.4157606315290094558902_8
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 253
+        width: 79
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1879a265bff4e4d9d6a07ab1898d30
+      internalID: -294725308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-character-two-dimensional-space-unity-game-unity-2d-5b22d52fd95770.4157606315290094558902_9
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 253
+        width: 80
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883046bc24748c84e9b63f4e78df6ea5
+      internalID: 2012419723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-character-two-dimensional-space-unity-game-unity-2d-5b22d52fd95770.4157606315290094558902_10
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 253
+        width: 80
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff473371c1d89240b1b52f79fd8f3b3
+      internalID: 297345846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-character-two-dimensional-space-unity-game-unity-2d-5b22d52fd95770.4157606315290094558902_11
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 100
+        width: 80
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c427fa5f235fc3458229aefe68ed6fd
+      internalID: 917585382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-character-two-dimensional-space-unity-game-unity-2d-5b22d52fd95770.4157606315290094558902_12
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 114
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e69fdbda611d8f45a24e6ebd8d85175
+      internalID: 1305975824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-character-two-dimensional-space-unity-game-unity-2d-5b22d52fd95770.4157606315290094558902_13
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 100
+        width: 79
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef412fc7837689a4a83150ff1d7d2c7a
+      internalID: 1477772941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kisspng-sprite-character-two-dimensional-space-unity-game-unity-2d-5b22d52fd95770.4157606315290094558902_0: 517630265
+      kisspng-sprite-character-two-dimensional-space-unity-game-unity-2d-5b22d52fd95770.4157606315290094558902_1: -668096181
+      kisspng-sprite-character-two-dimensional-space-unity-game-unity-2d-5b22d52fd95770.4157606315290094558902_10: 297345846
+      kisspng-sprite-character-two-dimensional-space-unity-game-unity-2d-5b22d52fd95770.4157606315290094558902_11: 917585382
+      kisspng-sprite-character-two-dimensional-space-unity-game-unity-2d-5b22d52fd95770.4157606315290094558902_12: 1305975824
+      kisspng-sprite-character-two-dimensional-space-unity-game-unity-2d-5b22d52fd95770.4157606315290094558902_13: 1477772941
+      kisspng-sprite-character-two-dimensional-space-unity-game-unity-2d-5b22d52fd95770.4157606315290094558902_2: 2092377119
+      kisspng-sprite-character-two-dimensional-space-unity-game-unity-2d-5b22d52fd95770.4157606315290094558902_3: -520260698
+      kisspng-sprite-character-two-dimensional-space-unity-game-unity-2d-5b22d52fd95770.4157606315290094558902_4: -860496872
+      kisspng-sprite-character-two-dimensional-space-unity-game-unity-2d-5b22d52fd95770.4157606315290094558902_5: 1218243856
+      kisspng-sprite-character-two-dimensional-space-unity-game-unity-2d-5b22d52fd95770.4157606315290094558902_6: -1131143077
+      kisspng-sprite-character-two-dimensional-space-unity-game-unity-2d-5b22d52fd95770.4157606315290094558902_7: -194420148
+      kisspng-sprite-character-two-dimensional-space-unity-game-unity-2d-5b22d52fd95770.4157606315290094558902_8: -294725308
+      kisspng-sprite-character-two-dimensional-space-unity-game-unity-2d-5b22d52fd95770.4157606315290094558902_9: 2012419723
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
